@@ -1,0 +1,4 @@
+- 👋 Hi, I’m olmac116
+- 👀 I’m interested in Lua coding and making games
+- 🌱 I’m currently learning Lua coding
+- 📫 How to reach me: Discord, olmac16#0947, Twitter, @GamingWithOl1/ https://twitter.com/GamingWithOl1
