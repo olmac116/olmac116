@@ -6,4 +6,5 @@ Currently working on (and own) Roblox projects for Starstruck Studios, you can c
 Recently, I've been working on small github projects (like StudioRPC which has just been released! It adds Roblox Studio activity to your Discord profile), mostly ran by python.
 
 If my Python code sucks, it's because it's too good for your comprehension 💯
+
 You can check out my portfolio here: http://olmac.starstruck-studios.top/
