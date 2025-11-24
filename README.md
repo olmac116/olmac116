@@ -8,3 +8,5 @@ Recently, I've been working on small github projects (like StudioRPC which has j
 If my Python code sucks, it's because it's too good for your comprehension 💯
 
 You can check out my portfolio here: http://olmac.starstruck-studios.top/
+
+![](https://komarev.com/ghpvc/?username=olmac116)
