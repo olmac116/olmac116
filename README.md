@@ -1,4 +1,5 @@
-## Hello, I'm ol (short for olmac / my real name)
+# Hello, I'm ol
+<sub>ol is my online alias, so pls call me by that (olmac works too)</sub><br/>
 I like making Roblox games and doing graphic design
 
 Currently working on (and own) Roblox projects for Starstruck Studios, you can check out the website here: [starstruck-studios.top](https://starstruck-studios.top)
